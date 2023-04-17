@@ -1,4 +1,4 @@
-### Well hello there distant traveller 👋
+### Well hello there distant traveler 👋
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=cvega.cvega&left_color=green&right_color=red)
 
